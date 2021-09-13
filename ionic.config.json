@@ -1,0 +1,7 @@
+{
+  "name": "1-4-Self",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
